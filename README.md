@@ -22,6 +22,12 @@
 ### Descrição: Modelo de aplicativo teste para consulta de clima por região. Teste com integração de API com dados de clima teste de São Paulo e Osasco.  
 ### Tecnologias: React, Typescript, Javascript, Hooks, Context-API, LocalStorage, Styled-components, Figma, NodeJs, Express, Docker. 
 
+# Internet Plans
+### Link de Deploy Front-End: https://internet-plans.netlify.app/
+### Link do Repositório Front-End: https://github.com/felipenmatos/internet_plans
+### Descrição: O projeto consiste em uma resolução de desafio técnico onde é necessário em 1 dia desenvolver 2 telas de um sistema que já está no ar, são as telas Home e de Ofertas. Na tela Home é possível informar seu CEP para consultar localidade e planos disponíveis para contratação. Ao consultar você é redirecionado para a tela de Ofertas com algumas possíveis ofertas para sua localidade, fica a sua disponsição do interesse da contratação ou não. Clicando em Contratar você deve informar seu e-mail no modal para que alguma unidade técnica próxima possa fazer o contato.  
+### Tecnologias: React, Typescript, Javascript, Hooks, Context-API, Styled-components, Axios, Figma. 
+
 # List English App 
 ### Link de Deploy Front-End: https://list-english-app.netlify.app/
 ### Link do Repositório Front-End: https://github.com/felipenmatos/challenge-by-coodesh
