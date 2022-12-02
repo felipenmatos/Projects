@@ -1,4 +1,4 @@
-# Projects
+# Projects 🛠
 
 # Personal website
 ### Link de Deploy: https://felipenmatos.netlify.app/
