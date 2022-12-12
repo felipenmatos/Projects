@@ -6,14 +6,6 @@
 ### Descrição: Site Pessoal desenvolvido em React básico com componentes reutilizáveis e estilização feita em Styled-Components. Seu protótipo foi desenvolvido no Figma com base em pesquisas. 
 ### Tecnologias: React, Javascript, Hooks, Styled-components, Figma. 
 
-# Space X 
-### Link de Deploy Front-End: https://spacex-coodesh.netlify.app
-### Link do Repositório Front-End: https://github.com/felipenmatos/space_x
-### Link do Deploy Back-End: https://spacex-coodesh.herokuapp.com/
-### Link do Repositório Back-End: https://github.com/felipenmatos/space_x_api
-### Descrição: Aplicação de consulta de dados de lançamentos dos foguetes, com listagem de lançamentos, paginação, filtro e dados em gráficos.
-### Tecnologias: React, Typescript, Javascript, Hooks, Context-API, LocalStorage, Styled-components, Figma, NodeJs, Express, MongoDb, Docker. 
-
 # Meteorology App
 ### Link de Deploy Front-End: https://meteorology-app.netlify.app/
 ### Link do Repositório Front-End: https://github.com/felipenmatos/weather_system
@@ -57,3 +49,11 @@
 ### Link do Repositório: https://github.com/felipenmatos/projeto-origamid
 ### Descrição: Site básico para prática de Javascript, HTML, CSS e responsividade.
 ### Tecnologias: HTML, CSS, Javascript. 
+
+# Space X 
+### Link de Deploy Front-End: https://spacex-coodesh.netlify.app
+### Link do Repositório Front-End: https://github.com/felipenmatos/space_x
+### Link do Deploy Back-End: https://spacex-coodesh.herokuapp.com/
+### Link do Repositório Back-End: https://github.com/felipenmatos/space_x_api
+### Descrição: Aplicação de consulta de dados de lançamentos dos foguetes, com listagem de lançamentos, paginação, filtro e dados em gráficos.
+### Tecnologias: React, Typescript, Javascript, Hooks, Context-API, LocalStorage, Styled-components, Figma, NodeJs, Express, MongoDb, Docker. 
